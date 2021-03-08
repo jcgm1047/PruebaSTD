@@ -1,0 +1,8 @@
+<?page title="Auttno Generated index.zul"?>
+<window title="Hello World!!" border="normal" width="760px"
+	apply="com.vectores.ctrl.indexCtrl">
+
+	<label value="Bienvenido" />
+
+<button   id = "btnSaludo" label = "Evento" ></button>
+</window>
